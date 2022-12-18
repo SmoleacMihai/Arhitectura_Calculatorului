@@ -21,7 +21,7 @@ d) procesului de schimbare a starilor bistabililor – sincroni si asincroni.
 4. Comparati schemele principiale ale contoarelor cu numarare directa si numarare inversa.
 
 
-5. Prezentati definitia contorului dupa modulul M?
+5. Prezentati definitia contorului dupa modulul M? 
 
 
 6. Ce functii poate indeplini contorul si pentru ce el este utilizat in calculator?
